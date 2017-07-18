@@ -1,5 +1,5 @@
 # acijson2doc
-Create word documentation from Cisco ACI json based configuration
+Create word documentation from Cisco ACI json based configuration using python
 
 akes an input json config of a tenant, that can be obtained by "Saving as"  from the APIC GUI. 
 It produces a docx document with drawings ans supporting text for:          
